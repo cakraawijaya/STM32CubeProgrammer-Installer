@@ -8,6 +8,7 @@ STM32CubeProgrammer is an official software from STMicroelectronics used to prog
 
 <br>
 
+### STM32 CUBE PROGRAMMER INSTALLATION PROCEDURE :
 • Make sure all downloaded parts are in one folder.
 
 • Right click ``` en.stm32cubeprg-win64-v2-15-0.part1 ``` -> Select ``` Extract Here ```.
