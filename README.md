@@ -4,6 +4,9 @@
 ![Type](https://img.shields.io/badge/Type-Installer-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # STM32CubeProgrammer-Installer
+STM32CubeProgrammer is an official software from STMicroelectronics used to program STM32 and STM8 microcontrollers.
+
+<br>
 
 • Make sure all downloaded parts are in one folder.
 
