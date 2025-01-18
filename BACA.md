@@ -13,6 +13,6 @@ STM32CubeProgrammer adalah perangkat lunak resmi dari STMicroelectronics yang di
 
 • Klik kanan ``` en.stm32cubeprg-win64-v2-15-0.part1 ``` -> Pilih ``` Extract Here ```.
 
-• Buka ``` SetupSTM32CubeProgrammer_win64.exe ```.
+• Jalankan ``` SetupSTM32CubeProgrammer_win64.exe ```.
 
 • Atur sesuai dengan kebutuhan Anda.
