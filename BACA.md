@@ -4,7 +4,11 @@
 ![Type](https://img.shields.io/badge/Type-Installer-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # STM32CubeProgrammer-Installer
+STM32CubeProgrammer adalah perangkat lunak resmi dari STMicroelectronics yang digunakan untuk memprogram mikrokontroler STM32 dan STM8.
 
+<br>
+
+### PROSEDUR INSTALASI STM32 CUBE PROGRAMMER :
 • Pastikan semua bagian yang diunduh berada dalam satu folder.
 
 • Klik kanan ``` en.stm32cubeprg-win64-v2-15-0.part1 ``` -> Pilih ``` Extract Here ```.
