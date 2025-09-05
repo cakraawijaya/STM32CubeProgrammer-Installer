@@ -3,7 +3,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/cakraawijaya/STM32CubeProgrammer-Installer?logo=Codeforces&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Installer-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# STM32CubeProgrammer-Installer
+# STM32CubeProgrammer Installer
 STM32CubeProgrammer adalah perangkat lunak resmi dari STMicroelectronics yang digunakan untuk memprogram mikrokontroler STM32 dan STM8.
 
 <br>
